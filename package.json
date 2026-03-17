@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-pro-ducanh",
+  "version": "1.0.0",
+  "description": "nodejs pro ducanh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnAnh2k/nodejs-pro-ducanh.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mogodb"
+  ],
+  "author": {
+    "name": "An Đức Anh"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnAnh2k/nodejs-pro-ducanh/issues"
+  },
+  "homepage": "https://github.com/AnAnh2k/nodejs-pro-ducanh#readme"
+}
