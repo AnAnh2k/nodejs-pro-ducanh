@@ -25,5 +25,10 @@
   "homepage": "https://github.com/AnAnh2k/nodejs-pro-ducanh#readme",
   "dependencies": {
     "express": "5.0.1"
+  },
+  "devDependencies": {
+    "@types/express": "5.0.0",
+    "@types/node": "22.10.7",
+    "typescript": "5.7.3"
   }
 }
